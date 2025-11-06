@@ -2,6 +2,7 @@ package segregateZerosAndOnesInArray;
 
 import java.util.ArrayList;
 
+// Complexity: Medium
 public class Solution {
     public ArrayList<Integer> solve(ArrayList<Integer> inpArr) {
 

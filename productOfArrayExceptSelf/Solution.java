@@ -1,5 +1,6 @@
 package productOfArrayExceptSelf;
 
+// Complexity: Medium
 public class Solution {
     public int[] productExceptSelf(int[] nums) {
         int n = nums.length;
